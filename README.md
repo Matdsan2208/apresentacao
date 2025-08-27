@@ -30,7 +30,7 @@ Este projeto teve como metas principais:
 -  🛠️ Ganhar prática com ferramentas pouco utilizadas antes.
 
  ## 🌐 Acesse o Projeto Online  
-🔗 [Clique aqui para visualizar](https://github.com/Matdsan2208/Cartao-de-Apresentacao.git)
+🔗 [Clique aqui para visualizar](https://matdsan2208.github.io/apresentacao/)
 
 
 💻 Tecnologias Utilizadas
